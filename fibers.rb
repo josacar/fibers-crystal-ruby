@@ -4,6 +4,10 @@
 # https://github.com/ruby/ruby/pull/1870
 # https://www.igvita.com/2009/05/13/fibers-cooperative-scheduling-in-ruby/
 # https://github.com/socketry/lightio
+# https://github.com/socketry/async
+# https://github.com/eventmachine/eventmachine
+# https://bugs.ruby-lang.org/issues/14736
+# https://github.com/ruby/ruby/pull/1870
 
 require 'bundler/inline'
 
